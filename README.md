@@ -1,1 +1,1 @@
-# snake-game
+# DATA-STRUCTURES-APPLICATION
